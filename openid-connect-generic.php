@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: OpenID Connect Generic
-Plugin URI: https://github.com/daggerhart/openid-connect-generic
-Description:  Connect to an OpenID Connect generic client using Authorization Code Flow
+Plugin Name: OpenID Connect Generic Modified
+Plugin URI: https://github.com/contraslash/openid-connect-generic
+Description:  Connect to an OpenID Connect generic client using Authorization Code Flow, modified to use an user that already exists on DB
 Version: 3.4.0
 Author: daggerhart
 Author URI: http://www.daggerhart.com

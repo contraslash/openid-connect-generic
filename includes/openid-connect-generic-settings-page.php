@@ -229,8 +229,8 @@ class OpenID_Connect_Generic_Settings_Page {
 	 */
 	public function admin_menu() {
 		add_options_page(
-			__( 'OpenID Connect - Generic Client' ),
-			__( 'OpenID Connect Client' ),
+			__( 'OpenID Connect - Generic Client Modified' ),
+			__( 'OpenID Connect Client Modified' ),
 			'manage_options',
 			$this->options_page_name,
 			array( $this, 'settings_page' ) );

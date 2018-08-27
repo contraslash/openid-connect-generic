@@ -1,9 +1,9 @@
 {
-  "name": "daggerhart/openid-connect-generic",
+  "name": "contraslash/openid-connect-generic",
   "type": "wordpress-plugin",
   "license": "GPL-2.0-only",
-  "description": "OpenID Connect generic WordPress plugin.",
-  "homepage": "https://github.com/daggerhart/openid-connect-generic",
+  "description": "OpenID Connect generic WordPress plugin. Modified",
+  "homepage": "https://github.com/contraslash/openid-connect-generic",
   "authors": [
     {
       "name": "Jonathan Daggerhart",
@@ -16,7 +16,7 @@
     "openid"
   ],
   "support": {
-    "issues": "https://github.com/daggerhart/openid-connect-generic/issues"
+    "issues": "https://github.com/contraslash/openid-connect-generic"
   },
   "require": {
     "php": ">=5.3.3",
